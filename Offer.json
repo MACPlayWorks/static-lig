@@ -184,20 +184,7 @@
       "type": "Click",
       "clickURL": "https://www.airmiles.ca/arrow/Redirect?id=16330-ROGERS-Oct15-Nov30-Up2-100-Worlds-en",
       "mobileTemplate": "MobileOfferDetailsIntercept",
-      "sponsor":       {
-         "name": "Rogers Magazine Service",
-         "id": "2000610049",
-         "type": "sponsorDetails",
-         "tag": [         {
-            "name": "In Store",
-            "id": "300002"
-         }],
-         "base-offer":          {
-            "desc": "Earn 20 AIR MILES reward miles with each subscription you order!\n\n\n\nGOLD COLLECTORS\n\nReceive even more AIR MILES reward miles!Click for details.",
-            "summary": "More Details"
-         },
-         "logo-url": "https://www.airmiles.ca/arrow/webresource/images/Logos/rogers_new_M.jpg"
-      },
+      "sponsor": null,
       "offer-tag": [      {
          "name": "Online Only",
          "id": "300004"
