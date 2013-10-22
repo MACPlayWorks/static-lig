@@ -1,0 +1,210 @@
+[
+      {
+      "value": "AIR MILES",
+      "id": "Offer7073399",
+      "desc": "Earn AIR MILES reward miles at Staples. Checkout the online flyer for all the great offers.",
+      "template": "RegularOfferDetail",
+      "long-desc": "",
+      "type": "InStore",
+      "clickURL": "https://www.airmiles.ca/arrow/Redirect?id=S14588_Staples_Thumbnail",
+      "mobileTemplate": "MobileOfferDetailPlus",
+      "sponsor":       {
+         "name": "Staples",
+         "id": "1120775720627",
+         "type": "sponsorDetails",
+         "tag":          [
+                        {
+               "name": "In Store",
+               "id": "300002"
+            },
+                        {
+               "name": "Business",
+               "id": "3000010"
+            }
+         ],
+         "base-offer":          {
+            "desc": "Earn 1 AIR MILES reward mile for every $40* you spend.",
+            "summary": "1 mile\nFor\n$40"
+         },
+         "logo-url": "https://www.airmiles.ca/arrow/webresource/Images/Logos/Staples14621_EN_Logo_M.png"
+      },
+      "offer-tag":       [
+                  {
+            "name": "In Store",
+            "id": "300002"
+         },
+                  {
+            "name": "Online Only",
+            "id": "300004"
+         },
+                  {
+            "name": "Business",
+            "id": "3000010"
+         }
+      ],
+      "value-desc": "reward miles",
+      "expires-soon": false,
+      "tc": "",
+      "value-earn-upto": "Earn"
+   },
+      {
+      "value": "2x",
+      "id": "Offer7093647",
+      "desc": "Earn 2x the reward miles when you shop at airmilesshops.ca",
+      "template": "AMSOfferDetail",
+      "long-desc": "Clickhereto receive the offer.",
+      "type": "Click",
+      "clickURL": "/shops/airmilesshops/SpecialOfferDetails?OfferID=1117648407127",
+      "mobileTemplate": "MobileOfferDetailsIntercept",
+      "sponsor":       {
+         "name": "Macys.com",
+         "id": "1120774620623",
+         "type": "retailerDetails",
+         "tag": [         {
+            "name": "Online Only",
+            "id": "300004"
+         }],
+         "base-offer":          {
+            "desc": "Collect one reward mile for every CDN$20 that you spend through airmilesshops.ca.",
+            "summary": "1 mile\nFor\n$20"
+         },
+         "logo-url": "https://www.airmiles.ca/arrow/webresource/images/Logos/MacysLogoMedium.gif"
+      },
+      "offer-tag": [      {
+         "name": "Online Only",
+         "id": "300004"
+      }],
+      "value-desc": "BONUS reward miles",
+      "expires-soon": false,
+      "tc": "",
+      "value-earn-upto": "Earn"
+   },
+      {
+      "value": "Free",
+      "id": "Offer6773335",
+      "desc": "Free Shipping on orders over $25",
+      "template": "AMSOfferDetail",
+      "long-desc": "",
+      "type": "Click",
+      "clickURL": "/shops/airmilesshops/SearchByStore?RetailerID=1054761279625&RefererPage=AM_SliderCoupon_Chapters-LandingPage_AMSSpecialOfferDetails_Chapters_B&chan=AM-Slider&camp=Chapters-LandingPage&seg=",
+      "mobileTemplate": "MobileOfferDetailsIntercept",
+      "sponsor":       {
+         "name": "Indigo.ca",
+         "id": "1054761279625",
+         "type": "retailerDetails",
+         "tag": [         {
+            "name": "Online Only",
+            "id": "300004"
+         }],
+         "base-offer":          {
+            "desc": "Collect one reward mile for every CDN$20 that you spend through airmilesshops.ca.",
+            "summary": "1 mile\nFor\n$20"
+         },
+         "logo-url": "https://www.airmiles.ca/arrow/webresource/Images/Logos/Indigo_Logo_100.jpg"
+      },
+      "offer-tag": [      {
+         "name": "Online Only",
+         "id": "300004"
+      }],
+      "value-desc": "Shipping",
+      "expires-soon": false,
+      "tc": "",
+      "value-earn-upto": ""
+   },
+      {
+      "value": "4x",
+      "id": "Offer7043617",
+      "desc": "Earn 4x the reward miles when you shop at airmilesshops.ca",
+      "template": "AMSOfferDetail",
+      "long-desc": "",
+      "type": "Click",
+      "clickURL": "/shops/airmilesshops/SearchByStore?RetailerID=1054761290504&RefererPage=AMS_StoreDirectory_StoreDirectoryListing-LandsEnd_AMSSearchByStore_LandsEnd_F&changeLocale=en_CA",
+      "mobileTemplate": "MobileOfferDetailsIntercept",
+      "sponsor":       {
+         "name": "Lands' End",
+         "id": "1054761290504",
+         "type": "retailerDetails",
+         "tag": [         {
+            "name": "Online Only",
+            "id": "300004"
+         }],
+         "base-offer":          {
+            "desc": "Collect one reward mile for every CDN$20 that you spend through airmilesshops.ca.",
+            "summary": "1 mile\nFor\n$20"
+         },
+         "logo-url": "https://www.airmiles.ca/arrow/webresource/images/content/logos/LandsEnd_blue,1.gif"
+      },
+      "offer-tag": [      {
+         "name": "Online Only",
+         "id": "300004"
+      }],
+      "value-desc": "reward miles",
+      "expires-soon": false,
+      "tc": "",
+      "value-earn-upto": "Earn"
+   },
+      {
+      "value": "35",
+      "id": "16330nullO7143382Rogers35",
+      "desc": "BESTSELLER BONUS! Earn 35 reward miles with each ofMaclean's,ChatelaineandSportsnetmagazine, the biweekly for Canadian sports fans.",
+      "template": "AMSOfferDetail",
+      "long-desc": "",
+      "type": "Click",
+      "clickURL": "https://www.airmiles.ca/arrow/Redirect?id=16330-ROGERS-Oct1-Nov15-35-bonus-en",
+      "mobileTemplate": "MobileOfferDetailsIntercept",
+      "sponsor":       {
+         "name": "Rogers Magazine Service",
+         "id": "2000610049",
+         "type": "sponsorDetails",
+         "tag": [         {
+            "name": "In Store",
+            "id": "300002"
+         }],
+         "base-offer":          {
+            "desc": "Earn 20 AIR MILES reward miles with each subscription you order!\n\n\n\nGOLD COLLECTORS\n\nReceive even more AIR MILES reward miles!Click for details.",
+            "summary": "More Details"
+         },
+         "logo-url": "https://www.airmiles.ca/arrow/webresource/images/Logos/rogers_new_M.jpg"
+      },
+      "offer-tag": [      {
+         "name": "Online Only",
+         "id": "300004"
+      }],
+      "value-desc": "reward miles",
+      "expires-soon": false,
+      "tc": "",
+      "value-earn-upto": "Earn"
+   },
+      {
+      "value": "100",
+      "id": "16330nullO7143384RogersUP2100WRLD",
+      "desc": "The best of both worlds! Earn reward miles with Rogers magazines and get both print and digital editions for one low price.",
+      "template": "AMSOfferDetail",
+      "long-desc": "",
+      "type": "Click",
+      "clickURL": "https://www.airmiles.ca/arrow/Redirect?id=16330-ROGERS-Oct15-Nov30-Up2-100-Worlds-en",
+      "mobileTemplate": "MobileOfferDetailsIntercept",
+      "sponsor":       {
+         "name": "Rogers Magazine Service",
+         "id": "2000610049",
+         "type": "sponsorDetails",
+         "tag": [         {
+            "name": "In Store",
+            "id": "300002"
+         }],
+         "base-offer":          {
+            "desc": "Earn 20 AIR MILES reward miles with each subscription you order!\n\n\n\nGOLD COLLECTORS\n\nReceive even more AIR MILES reward miles!Click for details.",
+            "summary": "More Details"
+         },
+         "logo-url": "https://www.airmiles.ca/arrow/webresource/images/Logos/rogers_new_M.jpg"
+      },
+      "offer-tag": [      {
+         "name": "Online Only",
+         "id": "300004"
+      }],
+      "value-desc": "reward miles",
+      "expires-soon": false,
+      "tc": "",
+      "value-earn-upto": "Earn up to"
+   }
+]

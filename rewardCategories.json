@@ -1,0 +1,593 @@
+{
+   "id": "cat670016",
+   "name": "Dream Rewards",
+   "featureCat": "cat710016",
+   "childCat":    [
+            {
+         "id": "cat670022",
+         "permanent": true,
+         "name": "Electronics & Photography",
+         "childCat":          [
+                        {
+               "id": "cat680034",
+               "name": "Photography",
+               "childCat":                [
+                                    {
+                     "id": "cat680130",
+                     "name": "Point & Shoot Cameras"
+                  },
+                                    {
+                     "id": "cat280004",
+                     "name": "Compact System Cameras"
+                  },
+                                    {
+                     "id": "cat680132",
+                     "name": "DSLR Cameras"
+                  },
+                                    {
+                     "id": "cat680134",
+                     "name": "Camcorders"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680036",
+               "name": "TV & Home Theatre",
+               "childCat":                [
+                                    {
+                     "id": "cat680140",
+                     "name": "TV"
+                  },
+                                    {
+                     "id": "cat680142",
+                     "name": "Blu-ray Disc Players"
+                  },
+                                    {
+                     "id": "cat680144",
+                     "name": "Home Theatre"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680038",
+               "name": "Phones"
+            },
+                        {
+               "id": "cat680040",
+               "name": "Audio"
+            },
+                        {
+               "id": "cat680042",
+               "name": "Computing"
+            },
+                        {
+               "id": "cat680044",
+               "name": "Gaming"
+            },
+                        {
+               "id": "cat680046",
+               "name": "GPS/Navigation"
+            },
+                        {
+               "id": "cat680050",
+               "name": "Music",
+               "childCat":                [
+                                    {
+                     "id": "cat290011",
+                     "name": "New Releases"
+                  },
+                                    {
+                     "id": "cat680298",
+                     "name": "Pop"
+                  },
+                                    {
+                     "id": "cat680300",
+                     "name": "Rock"
+                  },
+                                    {
+                     "id": "cat680302",
+                     "name": "Urban"
+                  },
+                                    {
+                     "id": "cat680304",
+                     "name": "Country"
+                  },
+                                    {
+                     "id": "cat680306",
+                     "name": "Jazz & Classical"
+                  },
+                                    {
+                     "id": "cat680308",
+                     "name": "Soundtracks & Collections"
+                  },
+                                    {
+                     "id": "cat680296",
+                     "name": "Music Video"
+                  }
+               ]
+            }
+         ]
+      },
+            {
+         "id": "cat670024",
+         "permanent": true,
+         "name": "Home & Garden",
+         "childCat":          [
+                        {
+               "id": "cat680052",
+               "name": "Kitchen",
+               "childCat":                [
+                                    {
+                     "id": "cat680160",
+                     "name": "Small Electrics"
+                  },
+                                    {
+                     "id": "cat680146",
+                     "name": "Coffee & Beverages"
+                  },
+                                    {
+                     "id": "cat680148",
+                     "name": "Toasters & Ovens"
+                  },
+                                    {
+                     "id": "cat680150",
+                     "name": "Blenders"
+                  },
+                                    {
+                     "id": "cat680152",
+                     "name": "Mixers & Food Processors"
+                  },
+                                    {
+                     "id": "cat680156",
+                     "name": "Pots & Pans"
+                  },
+                                    {
+                     "id": "cat680154",
+                     "name": "Kitchen Tools"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680054",
+               "name": "Home Furnishings",
+               "childCat":                [
+                                    {
+                     "id": "cat680162",
+                     "name": "Furniture"
+                  },
+                                    {
+                     "id": "cat680164",
+                     "name": "Home Accessories"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680056",
+               "name": "Bed & Bath"
+            },
+                        {
+               "id": "cat680058",
+               "name": "Major Appliances"
+            },
+                        {
+               "id": "cat680062",
+               "name": "Cleaning & Laundry"
+            },
+                        {
+               "id": "cat680066",
+               "name": "Heating & Cooling"
+            },
+                        {
+               "id": "cat680060",
+               "name": "Tools & Accessories"
+            },
+                        {
+               "id": "cat680064",
+               "name": "Backyard"
+            },
+                        {
+               "id": "cat680096",
+               "name": "Baby Gear & Furniture"
+            }
+         ]
+      },
+            {
+         "id": "cat670026",
+         "permanent": true,
+         "name": "Entertainment",
+         "childCat":          [
+                        {
+               "id": "cat700016",
+               "name": "Arts & Theatre",
+               "childCat":                [
+                                    {
+                     "id": "cat700038",
+                     "name": "Museums & Galleries"
+                  },
+                                    {
+                     "id": "cat700042",
+                     "name": "Live Theatre, Symphony & Dance"
+                  }
+               ]
+            },
+                        {
+               "id": "cat700018",
+               "name": "Parks & Attractions",
+               "childCat":                [
+                                    {
+                     "id": "cat700024",
+                     "name": "Amusement Parks - Canada"
+                  },
+                                    {
+                     "id": "cat700026",
+                     "name": "Amusement Parks - USA"
+                  },
+                                    {
+                     "id": "cat700028",
+                     "name": "Science Centre"
+                  },
+                                    {
+                     "id": "cat700030",
+                     "name": "Sightseeing"
+                  },
+                                    {
+                     "id": "cat700032",
+                     "name": "Special Events"
+                  },
+                                    {
+                     "id": "cat700034",
+                     "name": "Waterpark"
+                  },
+                                    {
+                     "id": "cat700036",
+                     "name": "Zoo & Aquarium"
+                  }
+               ]
+            },
+                        {
+               "id": "cat700020",
+               "name": "Sports Events"
+            },
+                        {
+               "id": "cat680044",
+               "name": "Gaming"
+            },
+                        {
+               "id": "cat700022",
+               "name": "Movie Night"
+            },
+                        {
+               "id": "cat680050",
+               "name": "Music",
+               "childCat":                [
+                                    {
+                     "id": "cat290011",
+                     "name": "New Releases"
+                  },
+                                    {
+                     "id": "cat680298",
+                     "name": "Pop"
+                  },
+                                    {
+                     "id": "cat680300",
+                     "name": "Rock"
+                  },
+                                    {
+                     "id": "cat680302",
+                     "name": "Urban"
+                  },
+                                    {
+                     "id": "cat680304",
+                     "name": "Country"
+                  },
+                                    {
+                     "id": "cat680306",
+                     "name": "Jazz & Classical"
+                  },
+                                    {
+                     "id": "cat680308",
+                     "name": "Soundtracks & Collections"
+                  },
+                                    {
+                     "id": "cat680296",
+                     "name": "Music Video"
+                  }
+               ]
+            },
+                        {
+               "id": "cat70001",
+               "name": "AIR MILES Privileges"
+            },
+                        {
+               "id": "cat200003",
+               "name": "AIR MILES Events Exclusive"
+            }
+         ]
+      },
+            {
+         "id": "cat670028",
+         "permanent": true,
+         "name": "Leisure & Outdoors",
+         "childCat":          [
+                        {
+               "id": "cat680070",
+               "name": "Sports Activities",
+               "childCat":                [
+                                    {
+                     "id": "cat700048",
+                     "name": "Golf"
+                  },
+                                    {
+                     "id": "cat700044",
+                     "name": "Ski & Snow"
+                  },
+                                    {
+                     "id": "cat700020",
+                     "name": "Sports Events"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680072",
+               "name": "Sports Equipment",
+               "childCat":                [
+                                    {
+                     "id": "cat680088",
+                     "name": "Golf Equipment"
+                  },
+                                    {
+                     "id": "cat680094",
+                     "name": "Bikes"
+                  },
+                                    {
+                     "id": "cat680084",
+                     "name": "Ski, Snow & Water"
+                  },
+                                    {
+                     "id": "cat680082",
+                     "name": "Sports Memorabilia"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680074",
+               "name": "Outdoor Equipment",
+               "childCat":                [
+                                    {
+                     "id": "cat680090",
+                     "name": "Camping"
+                  },
+                                    {
+                     "id": "cat680092",
+                     "name": "Binoculars & Telescopes"
+                  },
+                                    {
+                     "id": "cat680094",
+                     "name": "Bikes"
+                  },
+                                    {
+                     "id": "cat680084",
+                     "name": "Ski, Snow & Water"
+                  }
+               ]
+            },
+                        {
+               "id": "cat700020",
+               "name": "Sports Events"
+            },
+                        {
+               "id": "cat680076",
+               "name": "Fitness"
+            },
+                        {
+               "id": "cat680064",
+               "name": "Backyard"
+            },
+                        {
+               "id": "cat680080",
+               "name": "Adventure Activities"
+            },
+                        {
+               "id": "cat680078",
+               "name": "Spas & Getaways"
+            },
+                        {
+               "id": "cat130012",
+               "name": "Toys & Activities"
+            }
+         ]
+      },
+            {
+         "id": "cat670032",
+         "permanent": true,
+         "name": "Personal Care & Accessories",
+         "childCat":          [
+                        {
+               "id": "cat680114",
+               "name": "Personal Care",
+               "childCat":                [
+                                    {
+                     "id": "cat680120",
+                     "name": "Hair & Grooming"
+                  },
+                                    {
+                     "id": "cat680122",
+                     "name": "Specialty Care Products"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680116",
+               "name": "Fashion Accessories",
+               "childCat":                [
+                                    {
+                     "id": "cat680124",
+                     "name": "Jewelry"
+                  },
+                                    {
+                     "id": "cat680126",
+                     "name": "Watches"
+                  },
+                                    {
+                     "id": "cat680128",
+                     "name": "Leather & Fashion Accessories"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680078",
+               "name": "Spas & Getaways"
+            },
+                        {
+               "id": "cat680118",
+               "name": "Luggage & Bags"
+            },
+                        {
+               "id": "cat680076",
+               "name": "Fitness"
+            }
+         ]
+      },
+            {
+         "id": "cat881039",
+         "permanent": true,
+         "name": "My Planet Rewards",
+         "childCat":          [
+                        {
+               "id": "cat881041",
+               "name": "Transportation",
+               "childCat":                [
+                                    {
+                     "id": "cat881053",
+                     "name": "Public Transportation"
+                  },
+                                    {
+                     "id": "cat881055",
+                     "name": "Personal Transportation"
+                  }
+               ]
+            },
+                        {
+               "id": "cat881043",
+               "name": "Inside the Home",
+               "childCat":                [
+                                    {
+                     "id": "cat1111035",
+                     "name": "Electronics"
+                  },
+                                    {
+                     "id": "cat1111037",
+                     "name": "For the Home"
+                  }
+               ]
+            },
+                        {
+               "id": "cat881045",
+               "name": "Outside the Home"
+            },
+                        {
+               "id": "cat881047",
+               "name": "Energy Alternatives"
+            },
+                        {
+               "id": "cat881049",
+               "name": "Personal Care"
+            },
+                        {
+               "id": "cat881051",
+               "name": "My Planet Charities"
+            }
+         ]
+      },
+            {
+         "id": "cat670034",
+         "permanent": true,
+         "name": "Subscriptions & Gift Cards",
+         "childCat":          [
+                        {
+               "id": "cat680258",
+               "name": "Subscriptions",
+               "childCat": [               {
+                  "id": "cat680268",
+                  "name": "Reading"
+               }]
+            },
+                        {
+               "id": "cat680256",
+               "name": "Gift Cards & Certificates",
+               "childCat":                [
+                                    {
+                     "id": "cat280002",
+                     "name": "For You & Your Home"
+                  },
+                                    {
+                     "id": "cat700062",
+                     "name": "Travel Certificates"
+                  }
+               ]
+            },
+                        {
+               "id": "cat680260",
+               "name": "Services",
+               "childCat":                [
+                                    {
+                     "id": "cat680262",
+                     "name": "Financial"
+                  },
+                                    {
+                     "id": "cat680264",
+                     "name": "Communications"
+                  },
+                                    {
+                     "id": "cat730016",
+                     "name": "Charities"
+                  }
+               ]
+            }
+         ]
+      },
+            {
+         "id": "cat670036",
+         "permanent": true,
+         "name": "Travel",
+         "travel": true
+      },
+            {
+         "id": "cat670038",
+         "permanent": true,
+         "name": "Deals & More",
+         "childCat":          [
+                        {
+               "id": "cat710016",
+               "name": "Deals of the Week"
+            },
+                        {
+               "id": "cat710022",
+               "name": "Gold Specials"
+            },
+                        {
+               "id": "cat1221040",
+               "name": "Last Chance"
+            }
+         ]
+      },
+            {
+         "id": "cat720060",
+         "name": "Gift Guide",
+         "childCat":          [
+                        {
+               "id": "cat720034",
+               "name": "Aspiring Chef"
+            },
+                        {
+               "id": "cat720032",
+               "name": "Globetrotter"
+            },
+                        {
+               "id": "cat720028",
+               "name": "Music Lover"
+            }
+         ]
+      }
+   ]
+}

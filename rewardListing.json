@@ -1,0 +1,79 @@
+{
+   "id": "cat280004",
+   "products":    [
+            {
+         "name": "Canon Speedlite 320EX Flash",
+         "prodImageUrl": "/arrow/webresource/images/details_234x234/1330400161_Canon_Speedlite_320EX.jpg",
+         "amrm": "2800",
+         "productId": "prod180001"
+      },
+            {
+         "name": "Nikon 1 J3 All-In-One-Lens Kit",
+         "prodImageUrl": "/arrow/webresource/Images/details_234x234/1330921045_34248_EN.jpg",
+         "amrmcash": [         {
+            "cash": "255.00",
+            "amrm": "6880"
+         }],
+         "amrm": "8600",
+         "productId": "prod1924415"
+      },
+            {
+         "name": "Nikon 1 S1 One-Lens Kit",
+         "prodImageUrl": "/arrow/webresource/Images/details_234x234/1330890339_34012.jpg",
+         "amrmcash": [         {
+            "cash": "145.00",
+            "amrm": "4160"
+         }],
+         "amrm": "5200",
+         "productId": "prod1884844"
+      },
+            {
+         "name": "Nikon COOLPIX L820 Digital Camera",
+         "prodImageUrl": "/arrow/webresource/Images/details_234x234/1330921037_32411_0713_325.jpg",
+         "amrm": "2800",
+         "productId": "prod1924411"
+      },
+            {
+         "name": "Panasonic Lumix® FZ200 Digital Camera",
+         "prodImageUrl": "/arrow/webresource/Images/details_234x234/1330910512_DMC-FZ200K_0713_325.jpg",
+         "amrmcash": [         {
+            "cash": "165.00",
+            "amrm": "4640"
+         }],
+         "amrm": "5800",
+         "productId": "prod1924421"
+      },
+            {
+         "name": "Panasonic LUMIX® Long Zoom Camera",
+         "prodImageUrl": "/arrow/webresource/Images/details_234x234/1330920354_DMC-LZ30K_EN.jpg",
+         "amrm": "2500",
+         "productId": "prod1924417"
+      },
+            {
+         "name": "Pentax Q7 with Standard Zoom and Telephoto Lens Kit",
+         "prodImageUrl": "/arrow/webresource/Images/details_234x234/1330920368_11531_EN.jpg",
+         "amrm": "8000",
+         "productId": "prod1924419"
+      },
+            {
+         "name": "Pentax Q7 with Standard Zoom Lens",
+         "prodImageUrl": "/arrow/webresource/Images/details_234x234/1330920366_11520_EN.jpg",
+         "amrmcash": [         {
+            "cash": "165.00",
+            "amrm": "4160"
+         }],
+         "amrm": "5200",
+         "productId": "prod1924416"
+      },
+            {
+         "name": "SONY® DSCHX300 Cyber-shotTM Digital Camera",
+         "prodImageUrl": "/arrow/webresource/Images/details_234x234/1330900361_DSCHX300_1B_325x325.jpg",
+         "amrmcash": [         {
+            "cash": "150.00",
+            "amrm": "4000"
+         }],
+         "amrm": "5000",
+         "productId": "prod1894422"
+      }
+   ]
+}
