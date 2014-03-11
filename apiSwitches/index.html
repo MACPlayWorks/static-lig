@@ -9,6 +9,19 @@
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.css">
 		<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+    			$('#apiSwitchSelectBox').change(function() {
+  					var selectedOptionValue = $(this).children(":selected").attr("value");
+  					console.log("Option value: " + selectedOptionValue);
+  					if(selectedOptionValue){
+  						console.log("Pia");
+  						window.location.href = selectedOptionValue;
+  					}
+				});
+
+    		});
+		</script>
 	</head>
 	<body >
 		<div data-role="page">
@@ -18,22 +31,18 @@
 		  	<div data-role="main" class="ui-content">
 		    	<form method="post" action="demoform.asp">
 		      		<fieldset class="ui-field-contain">
-			        	<label for="day">Select the environment:</label>
-			        	<select name="day" id="day">
-				        	<option value="npservices1">
-				        		<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
-									np-services1
-								</a>
+			        	<select name="apiSwitchSelectBox" id="apiSwitchSelectBox">
+			        		<option value="">
+								Please select your environment
 							</option>
-      						<option value="npservices2">
-      							<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
-									np-services2
-								</a>
+				        	<option value="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
+								np-services1
 							</option>
-      						<option value="wed">
-      							<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
-									np-services3
-								</a>
+      						<option value="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
+								np-services2
+							</option>
+      						<option value="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
+      							np-services3
 							</option>
 			        	</select>
 		      		</fieldset>
