@@ -2,38 +2,43 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>New design for mobifreaks</title>
+		<title>API Switches</title>
 		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0" />
-		<link rel="stylesheet" href="style.css" type="text/css"/>
+		<!--<link rel="stylesheet" href="style.css" type="text/css"/>-->
         <link href="css/demo.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.css">
+		<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.1/jquery.mobile-1.4.1.min.js"></script>
 	</head>
 	<body >
-		<div class="wrap">
-			<div class="container">
-				<div class="content">
-				<h2>API Switch URLs</h2><br/>
-				<p>
-					<span>
-						<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
-							np-services1
-						</a>
-					</span>
-				<p>
-					<span>
-						<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
-							np-services2
-						</a>
-					</span>
-				</p>
-				<p>
-					<span>
-						<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
-							np-services3
-						</a>
-					</span>
-				</p>
-			</div> <!-- content -->
-		</div> <!-- container -->
-		<hr class="separator"/>
+		<div data-role="page">
+  			<div data-role="header">
+  				<h1>API Switches</h1>
+  			</div>
+		  	<div data-role="main" class="ui-content">
+		    	<form method="post" action="demoform.asp">
+		      		<fieldset class="ui-field-contain">
+			        	<label for="day">Select the environment:</label>
+			        	<select name="day" id="day">
+				        	<option value="npservices1">
+				        		<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
+									np-services1
+								</a>
+							</option>
+      						<option value="npservices2">
+      							<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
+									np-services2
+								</a>
+							</option>
+      						<option value="wed">
+      							<a href="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
+									np-services3
+								</a>
+							</option>
+			        	</select>
+		      		</fieldset>
+		    	</form>
+		  	</div>
+		</div>
 	</body>
 </html>
