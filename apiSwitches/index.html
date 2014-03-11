@@ -25,7 +25,7 @@
 	</head>
 	<body >
 		<div data-role="page">
-  			<div data-role="header">
+  			<div data-role="header" style="background-color:#2089b0;color:#fff;text-shadow:none">
   				<h1>API Switches</h1>
   			</div>
 		  	<div data-role="main" class="ui-content">
@@ -33,16 +33,25 @@
 		      		<fieldset class="ui-field-contain">
 			        	<select name="apiSwitchSelectBox" id="apiSwitchSelectBox">
 			        		<option value="">
-								Please select your environment
+								Select environment
+							</option>
+							<option value="airmiles://apiswitch?apihost=np-services.airmiles.ca&amp;apikey=0c921fb9-8e73-4349-bef5-e7960551b4ca">
+								np-services
 							</option>
 				        	<option value="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
 								np-services1
 							</option>
-      						<option value="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
+      						<option value="airmiles://apiswitch?apihost=np-services2.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
 								np-services2
 							</option>
-      						<option value="airmiles://apiswitch?apihost=np-services1.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
+      						<option value="airmiles://apiswitch?apihost=np-services3.airmiles.ca&amp;apikey=9bd286c5-e9d2-4292-9bb1-1b2356644788">
       							np-services3
+							</option>
+							<option value="airmiles://apiswitch?apihost=services.airmiles.ca&amp;apikey=605ef001-3fe1-4c20-a2b5-ad498e15a315">
+      							production
+							</option>
+							<option value="airmiles://apiswitch?apihost=macplayworks.github.io/static-lig&amp;apikey=0c921fb9-8e73-4349-bef5-e7960551b4ca">
+      							static pages
 							</option>
 			        	</select>
 		      		</fieldset>
